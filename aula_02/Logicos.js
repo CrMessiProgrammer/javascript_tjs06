@@ -29,7 +29,7 @@ if(usuarioLogin === usuário && senhaLogin === senha) {
     } else {
         console.log("Usuário está inativo! Contate o Administrador!")
             process.exit(0) // reseta, sai do programa ao executá-lo
-        }
+    }
 } else {
     var mensagem = "Acesso Negado!"
 }
