@@ -3,7 +3,7 @@
 const leia = require('readline-sync')
 
 let nome = leia.question("\nInforme seu nome: ");
-console.log(`\nOlá, ${nome}. Bem Vindo! Confira nosso cardápio abaixo: `);
+console.log(`\nOlá, ${nome}. Bem Vindo(a)! Confira nosso cardápio abaixo: `);
 
 console.log("\n********Cardápio********");
 console.log("1 | Cachorro Quente | R$ 10.00");
