@@ -1,4 +1,7 @@
-// Exercício 1: Dado o Fluxograma abaixo, desenvolva o algoritmo abaixo na Linguagem JavaScript.
+/*
+    Exercício 1: Dado o Fluxograma abaixo, desenvolva o algoritmo abaixo na
+    Linguagem JavaScript.
+*/
 
 const leia = require('readline-sync')
 

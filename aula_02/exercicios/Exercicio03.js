@@ -1,4 +1,8 @@
-// Exercício 3: Elabore um algoritmo em Java, que leia o Salário Bruto, o Adicional Noturno, as Horas Extras e os Descontos de um Colaborador, em variáveis do tipo float e exiba na tela o Salário Líquido.
+/*
+    Exercício 3: Elabore um algoritmo em Java, que leia o Salário Bruto, o
+    Adicional Noturno, as Horas Extras e os Descontos de um Colaborador, em
+    variáveis do tipo float e exiba na tela o Salário Líquido.
+*/
 
 const leia = require('readline-sync')
 

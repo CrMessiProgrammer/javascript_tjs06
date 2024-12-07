@@ -1,4 +1,7 @@
-// Exercício 2: Escreva um algoritmo, que leia 10 números inteiros via teclado e mostre na tela quantos números são pares e quantos número são ímpares.
+/*
+    Exercício 2: Escreva um algoritmo, que leia 10 números inteiros via teclado
+    e mostre na tela quantos números são pares e quantos número são ímpares.
+*/
 
 const leia = require('readline-sync')
 

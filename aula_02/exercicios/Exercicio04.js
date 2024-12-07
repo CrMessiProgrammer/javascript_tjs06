@@ -1,4 +1,7 @@
-// Exercício 4: Leia quatro valores float (n1, n2, n3, n4). A seguir, calcule e mostre a diferença do produto entre o n1 e n2 pelo produto entre o n3 e o n4.
+/*
+    Exercício 4: Leia quatro valores float (n1, n2, n3, n4). A seguir, calcule e
+    mostre a diferença do produto entre o n1 e n2 pelo produto entre o n3 e o n4.
+*/
 
 const leia = require('readline-sync')
 

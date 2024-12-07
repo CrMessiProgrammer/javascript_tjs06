@@ -1,4 +1,10 @@
-// Exercício 7: Dado um vetor contendo 10 números inteiros não ordenados e não repetidos, construa um algoritmo que consiga pesquisar dados no vetor, onde o usuário irá digitar um número e o programa deve exibir na tela a posição deste número no vetor. Caso o número não seja encontrado, a mensagem: “Não foi encontrado!” deve ser exibida na tela.
+/*
+    Exercício 7: Dado um vetor contendo 10 números inteiros não ordenados e não
+    repetidos, construa um algoritmo que consiga pesquisar dados no vetor, onde
+    o usuário irá digitar um número e o programa deve exibir na tela a posição
+    deste número no vetor. Caso o número não seja encontrado, a mensagem: “Não
+    foi encontrado!” deve ser exibida na tela.
+*/
 
 const leia = require('readline-sync')
 

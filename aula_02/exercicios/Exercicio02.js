@@ -1,4 +1,8 @@
-// Exercício 2: Elabore um algoritmo em Java que leia 4 notas de um participante, em variáveis do tipo float e exiba na tela a média final do participante.
+/*
+    Exercício 2: Elabore um algoritmo em Java que leia 4 notas de um
+    participante, em variáveis do tipo float e exiba na tela a média final do
+    participante.
+*/
 
 const leia = require('readline-sync')
 

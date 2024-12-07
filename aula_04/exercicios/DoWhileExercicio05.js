@@ -1,4 +1,8 @@
-// Exercício 5: Escreva um algoritmo, que leia números inteiros via teclado, até que o número zero seja digitado. Ao final, mostre na tela a soma de todos os números digitados, que sejam positivos.
+/*
+    Exercício 5: Escreva um algoritmo, que leia números inteiros via teclado,
+    até que o número zero seja digitado. Ao final, mostre na tela a soma de
+    todos os números digitados, que sejam positivos.
+*/
 
 const leia = require('readline-sync')
 
